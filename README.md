@@ -1,2 +1,5 @@
 # How to use GitHub
-It's explaining about GitHub
+
+### git clone  
+Syntax git clone GitHub URL  
+it copy your repository from cloud to local
